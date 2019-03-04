@@ -10,7 +10,7 @@ para la generación de innovadores modelos de negocio que
 permitan a los emprendedores brindar soluciones por medio
 de la transformación de la industria.
 Es importante que los modelos de negocio tradicional integren plataformas de
-e-commerce viceversa.La época de los pure players se acerca a su fin.
+e-commerce viceversa. La época de los pure players se acerca a su fin.
 
 Tan solo en México durante 2016 el 75% de los internautas Mexicanos realizaron una
 compra en línea. En 2017 el 65.5% de la población tuvo acceso a Internet, lo que
